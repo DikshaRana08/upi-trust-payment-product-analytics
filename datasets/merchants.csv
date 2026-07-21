@@ -1,0 +1,31 @@
+merchant_id,merchant_name,category,city,verified
+M0001,Zomato,Food,Jaipur,Yes
+M0002,Swiggy,Food,Mumbai,No
+M0003,Dominos,Food,Lucknow,Yes
+M0004,Pizza Hut,Food,Chennai,Yes
+M0005,Burger King,Food,Ahmedabad,Yes
+M0006,Amazon,E-Commerce,Lucknow,Yes
+M0007,Flipkart,E-Commerce,Mumbai,Yes
+M0008,Myntra,E-Commerce,Ahmedabad,Yes
+M0009,Ajio,E-Commerce,Hyderabad,No
+M0010,Meesho,E-Commerce,Lucknow,Yes
+M0011,IRCTC,Travel,Bengaluru,Yes
+M0012,MakeMyTrip,Travel,Mumbai,No
+M0013,Goibibo,Travel,Bengaluru,Yes
+M0014,Yatra,Travel,Ahmedabad,Yes
+M0015,RedBus,Travel,Kolkata,Yes
+M0016,Apollo Pharmacy,Healthcare,Lucknow,Yes
+M0017,1mg,Healthcare,Jaipur,Yes
+M0018,Netmeds,Healthcare,Jaipur,Yes
+M0019,Practo,Healthcare,Pune,No
+M0020,MedPlus,Healthcare,Kolkata,Yes
+M0021,Electricity Board,Utilities,Pune,Yes
+M0022,Water Board,Utilities,Delhi,Yes
+M0023,Gas Agency,Utilities,Jaipur,Yes
+M0024,FASTag,Utilities,Jaipur,Yes
+M0025,Broadband,Utilities,Chennai,Yes
+M0026,Netflix,Entertainment,Jaipur,Yes
+M0027,Spotify,Entertainment,Lucknow,Yes
+M0028,JioHotstar,Entertainment,Pune,No
+M0029,Sony LIV,Entertainment,Lucknow,Yes
+M0030,BookMyShow,Entertainment,Lucknow,Yes
